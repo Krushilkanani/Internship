@@ -1,0 +1,31 @@
+{
+    "editor.defaultColorDecorators": "always",
+    "editor.language.colorizedBracketPairs": [],
+    "colorize.decoration_type": "square-dot",
+    "colorize.include": [
+        "**/*.js",
+        "**/*.jsx",
+        "**/*.ts",
+        "**/*.tsx",
+        "**/*.css",
+        "**/*.scss",
+        "**/*.sass",
+        "**/*.less",
+        "**/*.styl"
+    ],
+    "colorize.languages": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "postcss",
+        "sss",
+        "stylus",
+        "xml",
+        "svg"
+    ],
+    "colorHelper.formatsOrder": []
+}
